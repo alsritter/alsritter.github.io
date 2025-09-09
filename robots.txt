@@ -1,2 +1,9 @@
 User-agent: *
-Disallow:
+Allow: /
+
+# 明确允许爬取 sitemap
+Sitemap: https://alsritter.github.io/sitemap.xml
+
+# 如果不希望爬取某些路径，可以添加：
+# Disallow: /admin/
+# Disallow: /private/
