@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkalsritter_blog=self.webpackChunkalsritter_blog||[]).push([[61721],{47906:s=>{s.exports=JSON.parse('{"tags":[{"label":"Music","permalink":"/TeaNotes/blog/tags/music","count":1}]}')}}]);

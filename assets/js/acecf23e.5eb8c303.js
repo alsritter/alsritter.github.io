@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkalsritter_blog=self.webpackChunkalsritter_blog||[]).push([[81903],{1912:e=>{e.exports=JSON.parse('{"blogBasePath":"/TeaNotes/blog","blogTitle":"Blog","authorsListPath":"/TeaNotes/blog/authors"}')}}]);
