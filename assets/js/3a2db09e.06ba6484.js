@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkalsritter_blog=self.webpackChunkalsritter_blog||[]).push([[18121],{68070:s=>{s.exports=JSON.parse('{"tags":[{"label":"Music","permalink":"/blog/tags/music","count":1}]}')}}]);
